@@ -2,7 +2,7 @@
 %LOAD BIDS FILES
 sphereLoc = '[batch_dfp]/[batch_dfn,_,-1]_desc-ll_icasphere.tsv'
 weightsLoc = '[batch_dfp]/[batch_dfn,_,-1]_desc-ll_icaweights.tsv'
-annoFile = '[batch_dfp]/[batch_dfn,_,-1]_desc-ll_annotations.tsv'
+annoFile = '[batch_dfp]/[batch_dfn,_,-1]_desc-qc_annotations.tsv'
 
 elecFile = './[batch_dfn,_,-1]_electrodes.tsv'
 eventsFile = './[batch_dfn,_,-1]_events.tsv'
